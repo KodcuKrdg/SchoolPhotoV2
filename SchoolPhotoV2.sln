@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPhotoV2", "SchoolPhotoV2\SchoolPhotoV2.csproj", "{BE80B329-94E3-4B99-B028-B6B9CF241220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE80B329-94E3-4B99-B028-B6B9CF241220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE80B329-94E3-4B99-B028-B6B9CF241220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE80B329-94E3-4B99-B028-B6B9CF241220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE80B329-94E3-4B99-B028-B6B9CF241220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECD7668-E359-4A50-89FB-CB130489C044}
+	EndGlobalSection
+EndGlobal
